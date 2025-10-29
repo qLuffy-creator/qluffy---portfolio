@@ -39,7 +39,7 @@
 ### 📫 Bana Ulaş
 💬 **Discord:** qluffy0088  
 📧 **E-posta:** qluffy351@gmail.com  
-🐙 **GitHub:** [github.com/qluffy0088](https://github.com/qluffy0088)
+🐙 **GitHub:** [github.com/qLuffy-creator](https://github.com/qLuffy-creator)
 
 ---
 
