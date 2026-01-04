@@ -33,7 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
