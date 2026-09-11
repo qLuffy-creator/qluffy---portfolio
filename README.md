@@ -1,5 +1,5 @@
 
-<h1 align="center">🌐 Merhaba, Ben qLuffy</h1>
+<h1 align="center">🌐 Merhaba, Ben WiéMâmi</h1>
 
 <p align="center">
   <strong>Python Geliştiricisi & AxyHosting Kurucusu</strong><br>
@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Bana Ulaş
-💬 **Discord:** qluffy0088  
+💬 **Discord:** wiemami. 
 📧 **E-posta:** qluffy351@gmail.com  
 🐙 **GitHub:** [github.com/qLuffy-creator](https://github.com/qLuffy-creator)
 
